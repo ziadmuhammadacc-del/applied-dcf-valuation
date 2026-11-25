@@ -7,6 +7,10 @@ A practical application of the Discounted Cash Flow (DCF) valuation methodology 
 
 The project focuses on forecasting financial performance, estimating free cash flows, determining the weighted average cost of capital (WACC), and deriving an implied equity value.
 
+## Model Preview
+
+![DCF Valuation Model Preview](DCF_Model_Preview.png)
+
 ## Key Areas Covered
 - Financial projections and operating assumptions
 - Working capital and PP&E forecasting
