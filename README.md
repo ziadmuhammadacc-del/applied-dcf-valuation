@@ -30,6 +30,5 @@ The project focuses on forecasting financial performance, estimating free cash f
 The financial model was independently rebuilt from scratch using a separate Excel template, with the original case data retained as the basis for the analysis.
 
 The project involved structuring the model, developing financial projections, implementing valuation calculations, and conducting sensitivity and scenario analysis to estimate the company's intrinsic value.
-
 ## Note
 This is an educational financial modeling project and does not represent investment advice.
