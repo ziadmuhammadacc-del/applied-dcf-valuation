@@ -1,6 +1,6 @@
 # Applied DCF Valuation Modeling
 
-**Financial Modeling & Valuation | CFI Practical Application**
+**Financial Modeling & Valuation | Practical Application**
 
 ## Project Overview
 A practical application of the Discounted Cash Flow (DCF) valuation methodology using a structured financial modeling framework.
