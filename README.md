@@ -9,7 +9,9 @@ The project focuses on forecasting financial performance, estimating free cash f
 
 ## Model Preview
 
+## Model Preview
 
+![DCF Valuation Model Preview](DCF_Model_Preview.png)
 
 ## Key Areas Covered
 - Financial projections and operating assumptions
